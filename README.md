@@ -21,8 +21,8 @@
 ---
 
 ### :information_source: Como testar o projeto
-
-Para clonar a aplicação, você vai precisar do [Git](git@github.com:diegolimagomes/page-codigo-certo.git) instalado em seu computador.
+Acesse a Página do Projeto [clique aqui](https://diegolimagomes.github.io/page-codigo-certo/) <br>
+Para clonar a aplicação, você vai precisar do [Git](https://git-scm.com) instalado em seu computador.
 Use os seguintes comandos:
 
 ```bash
